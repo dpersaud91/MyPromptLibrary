@@ -1,5 +1,3 @@
-**`editing.md`**
-```markdown
 # Editing Prompts
 
 ## Proofread
