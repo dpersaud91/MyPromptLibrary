@@ -37,5 +37,18 @@ could be wrong? What perspectives or risks am I not considering?
 Give me a thorough pros and cons analysis of the following. Be balanced
 and consider both short-term and long-term implications:
 [describe]
-```
+
+Explain this problem using first-principles thinking. Break it down to the most fundamental truths and rebuild the explanation from the ground up.
+
+Challenge the common assumption behind this idea. What might skeptics or critics say?
+
+Explain this idea as clearly as possible for a beginner. Avoid jargon and use simple examples.
+
+Imagine a panel of experts discussing this problem. What would different experts disagree about?
+
+Critique this idea and suggest ways it could be improved.
+
+Analyze this problem step by step and explain your reasoning.
+
+If this idea were applied in the real world, what challenges or trade-offs would appear
 
